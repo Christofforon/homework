@@ -177,7 +177,7 @@ Ce trebuie să faci:
 
 # CODUL TĂU VINE MAI JOS:
 class TechSolutionsApp:
-    versiune_aplicatie = "1.0"  # Attribut de clasă
+    versiune_aplicatie = "1.0" 
 
     def __init__(self, versiune_aplicatie):
         self.versiune_aplicatie = versiune_aplicatie
